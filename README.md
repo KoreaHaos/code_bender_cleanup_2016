@@ -1,6 +1,7 @@
 # code_bender_cleanup_2016
 
-metal_and_xpression_30490_01
-basic_engineeirng_design_for_electronics_ngineering_36564_01
-smart_software_project_37269_01
-financial_technology_38046_01
+* 37269_01_smart_software_project
+* 36564_01_basic_engineeirng_design_for_electronics_engineering
+* 30490_01_metal_and_expression
+* 38046_01_financial_technology
+
